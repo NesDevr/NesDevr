@@ -66,6 +66,3 @@ Full-stack gaming assistant with React dashboard + Django API tracking 500+ play
 [![Athena Toolkit](https://img.shields.io/badge/-Athena_Internal_Tool-2d2d2d?style=flat&logo=flask&logoColor=white)](#)
 Internal Flask app that accelerated financial data resolution (Private)
 
-&nbsp;
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Nesgc&theme=transparent" width="700">
