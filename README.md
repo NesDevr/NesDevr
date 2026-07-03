@@ -2,7 +2,7 @@
 https://nestorportf.vercel.app/
 &nbsp;
 
-I'm a **Backend + Full-Stack Engineer** with 5+ years of experience building scalable systems (ERPs, Fintech, SaaS, B2B) and data pipelines. I enjoy turning messy, real-world workflows into reliable, production-grade products that make people's work faster and decisions smarter.
+I'm a **Software Engineer** with 5+ years of experience building scalable systems (ERPs, Fintech, SaaS, B2B) and data pipelines. I enjoy turning messy, real-world workflows into reliable, production-grade products that make people's work faster and decisions smarter.
 
 ## &nbsp;Professional Highlights
 
