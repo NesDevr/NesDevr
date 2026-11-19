@@ -10,7 +10,7 @@ I like to develop reliable software that makes work faster, decisions smarter, a
 
 ### Software Engineer @ radii. | Jan 2025 - Present
 
-- Led React/TypeScript and Django/DRF quotation delivery, assigning tasks, supervising progress, implementing features and reviewing results across CAD uploads, pricing, review and checkout.
+- Led the redesign of an existing manufacturing quotation feature using React, TypeScript, Django REST Framework, and PostgreSQL. Defined requirements with Operations, designed the interface, APIs, and database schema, and implemented most of the changes. Assigned tasks and reviewed the team’s work.
 - Built a FastAPI CAD-processing service with Azure Service Bus and Container Apps, supporting up to 35 concurrent jobs per worker replica, with retries and failed-message handling.
 - Independently built the Node.js LogoDetection worker on AWS, combining OCR, LLM classification and configurable PDF redaction. Built a LangGraph PPAP workflow used by operations, reducing estimated report preparation from a working day to five minutes or less.
 - Developed a manufacturing assistant with LangChain, LangGraph, Azure OpenAI, Django APIs and PostgreSQL/pgvector for technical retrieval and permission-checked quotation actions. Used Azure AI Foundry to deploy models and configure endpoints.
